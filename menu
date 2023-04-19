@@ -10,10 +10,13 @@ acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135971
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
-http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/136048
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
-http://185.233.16.89/play/va08271/4122744267/441851.ts
+acestream://42a41c024c4bf195fd7dbe246da844d37f12de48
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
+
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
 http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/5677
