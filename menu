@@ -9,20 +9,17 @@ acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 2 ", M+ Liga De Campeones FHD
 http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135971
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro1", Mundotoro
 http://46.21.250.55:8080/NOVIEMBRE25X13/1NNQDEQk4Z/93380
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro2", Mundotoro
 acestream://12b379fef7da0129470510fb1946e559169d0129
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro3", Mundotoro
 acestream://77992690ee3a7781ad49b696af660d88aaeb46d2
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro4", Mundotoro
 http://nowresurface.eu:2086/1234/1234/213
-
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="LIGA DE CAMPEONES" tvg-id="Mundotoro", Mundotoro
-http://46.21.250.55:8080/NOVIEMBRE25X13/1NNQDEQk4Z/93380
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones HD ", M+ Liga De Campeones HD
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
