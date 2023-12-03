@@ -169,7 +169,7 @@ acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="TDT" tvg-id="Eventos de Movistar", Eventos de Movistar
-acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
+acestream://b806fc2590a246a10e2172f943a6c037
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="TDT" tvg-id="Gol Play - 1080", GOL PLAY FHD
 acestream://d4627f7b6b237a8556819445b3283d866caceca2
@@ -560,7 +560,7 @@ acestream://3a21b411e9b764efefc0c2166ca07f4655b3d31c
 
 
 #EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports 1 4K", Eleven Sports 1 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/640px-Canal%2B_Sport_2015.png" group-title="Polonia " tvg-id="Canal+", Canal+ Sport
 acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
