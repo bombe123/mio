@@ -1,5 +1,14 @@
 #EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Toros" tvg-id="OneToro1 FHD", Onetoro1 FHD
+acestream://ee38ea1806129de000bd7925a5d52554d70bb560
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Toros" tvg-id="OneToro2 FHD", Onetoro2 FHD
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Toros" tvg-id="OneToro3 FHD", Onetoro3 FHD
+acestream://ab34afbabd239c0de164fa3ed662f877799f9a83
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones FHD", M+ Liga De Campeones FHD
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
@@ -774,14 +783,6 @@ acestream://c33404e81c7499e9c962e8a672c6cb4d534e431c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztveLlNfPR75FUihWUK286ocYPp3Z1RjSU6FjqjCqgJG3_JMnvJ3U62MSpvgoaQ8erlE&usqp=CAU" group-title="Alemania" tvg-id="ZDF HD", ZDF GER HD
 acestream://c71fb593810ce837545e8d8b384e50a42c35a316
 
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Toros" tvg-id="OneToro1 FHD", Onetoro1 FHD
-acestream://ee38ea1806129de000bd7925a5d52554d70bb560
-
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Toros" tvg-id="OneToro2 FHD", Onetoro2 FHD
-acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
-
-#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/mundotoro-750x536.jpg" group-title="Toros" tvg-id="OneToro3 FHD", Onetoro3 FHD
-acestream://ab34afbabd239c0de164fa3ed662f877799f9a83
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/640px-Movistar_Plus%2B_2022_logo.svg.png" group-title="TDT" tvg-id="Movistar +", Movistar +
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
