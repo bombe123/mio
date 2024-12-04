@@ -88,13 +88,16 @@ acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga FHD
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+acestream://110d441ddc9713a7452588770d2bc85504672f47
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga FHD
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga FHD
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 720", DAZN LaLiga HD
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="Dazn La Liga", DAZN LaLiga 2 FHD 
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
