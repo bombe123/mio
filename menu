@@ -848,22 +848,22 @@ acestream://721a78f2076faa584c9c09059ffb4e10159f4665
 acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/GPYy3Hu.png", Eleven1
-http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/PkEGPzf.png", Eleven2
-http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/Z1dWgv5.png", Eleven3
-http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/WNEsP9b.png", Eleven4
-http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+acestream://0f32c0131a2d9444996410801f4e18b04384db98
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/rI0QZ46.png", Eleven5
-http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://imgur.com/DM309yn.png", Eleven6
-http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
 #-*-acestreamfb-*-- buscar esta lista https://raw.githubusercontent.com/dovietsy/acestreamfb/refs/heads/main/acestreamfb.txt#
