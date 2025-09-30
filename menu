@@ -6,8 +6,11 @@ acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones FHD (Opción 2)", M+ Liga De Campeones FHD (Opción 2)
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones FHD (Opción 3)", M+ Liga De Campeones FHD (Opción 3)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones FHD (Opción 3Newera)", M+ Liga De Campeones FHD (Opción 3)
 acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones FHD (Opción 4Newera)", M+ Liga De Campeones FHD (Opción 3)
+acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones HD", M+ Liga De Campeones HD
 acestream://b028202ff335911db3118bceac027df3e8ef6c32
@@ -39,17 +42,6 @@ acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 8 ", M+ Liga De Campeones 8 SD
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 9 ", M+ Liga De Campeones 9 SD
-acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 10 ", M+ Liga De Campeones 10 SD
-acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 11 ", M+ Liga De Campeones 11 SD
-acestream://57e284a3c13100baeff7a88dc50949585c9f1277
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 12 ", M+ Liga De Campeones 12 SD
-acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id=" DAZN F1 4K", DAZN F1 4K
 acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
