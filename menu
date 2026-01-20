@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones FHD", M+ Liga De Campeones FHD
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+acestream://f3eea003e23f94dc2d527306de9dd386e3ebf4ba
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones FHD (Opción 2)", M+ Liga De Campeones FHD (Opción 2)
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
